@@ -1,29 +1,29 @@
 Welcome:
-  tabTitle: "Welcome"
+  tabTitle: "வணக்கம்"
   subtitle: {
-    text1: "A hackable text editor for the 21"
-    superscript: "st"
-    text2: " Century"
+    text1: "ஓரு புதிய தன்னமைபு செய்யக்கூடிய உரை திருத்தி இந்த 21"
+    superscript: "ஆம்"
+    text2: " நூற்றாண்டில்"
   }
   help: {
-    forHelpVisit: "For help, please visit"
+    forHelpVisit: "உதவிக்கு அனுக"
     atomDocs: {
-      text1: "The "
-      link: "Atom docs"
-      text2: " for Guides and the API reference."
+      text1: ""
+      link: "அட்டம் ஆவணங்கள்"
+      text2: " கையேடுகள் மற்றும் API உதவிக்கு."
       _template: "${text1}<a>${link}</a>${text2}"
     }
     atomForum: {
-      text1: "The Atom forum at "
+      text1: "அட்டம் உதவித்தளம்"
       link: "discuss.atom.io"
       text2: ""   # optional
       _template: "${text1}<a>${link}</a>${text2}"
     }
     atomOrg: {
-      text1: "The "
+      text1: ""
       link: "Atom org"
-      text2: ". This is where all GitHub-created Atom packages can be found."
+      text2: ". தளத்தில் GitHub-வழி உருவாக்கிய அட்டம் தொகுப்புகள் காணப்படும்."
       _template: "${text1}<a>${link}</a>${text2}"
     }
   }
-  showWelcomeGuide: "Show Welcome Guide when opening Atom"
+  showWelcomeGuide: "அட்டம் திருத்தி முதல் திரக்கும்பொழுது வரவேர்ப்பு செய்தியை காட்டவும்"

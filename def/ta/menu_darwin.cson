@@ -2,43 +2,43 @@ Menu:
   Atom:
     value: "அட்டம்"
     submenu:
-      "About அட்டம்":
-        value: "About அட்டம்"
+      "About Atom":
+        value: "அட்டம் பற்றி"
       "View License":
-        value: "View License"
+        value: "உரிமம் பார்க்க"
       "Check for Update":
-        value: "Check for Update"
+        value: ""
       "Preferences…":
-        value: "Preferences..."
+        value: "விருப்பங்கள்..."
       "Config…":
-        value: "Config..."
+        value: "அமைப்புகள்..."
       "Init Script…":
-        value: "Init Script..."
+        value: "தொடக்க நிரல்..."
       "Keymap…":
-        value: "Keymap..."
+        value: "விசை..."
       "Snippets…":
-        value: "Snippets..."
+        value: "கீற்று..."
       "Stylesheet…":
-        value: "Stylesheet..."
+        value: "வண்ணத்தாள்..."
       "Install Shell Commands":
         value: "Install Shell Commands"
       "Hide Atom":
-        value: "Hide அட்டம்"
+        value: "அட்டம் திருத்தியை மறை"
       "Hide Others":
-        value: "Hide Others"
+        value: "மற்றவை மறை"
       "Show All":
-        value: "Show All"
+        value: "அனைத்தையும் காண்பி"
       Quit:
-        value: "Quit"
+        value: "வெளியேறு"
   File:
     value: "File"
     submenu:
       "New Window":
-        value: "New Window"
+        value: "புதிய சட்டம்"
       "New File":
-        value: "New File"
+        value: "புதிய கோப்பு"
       "Open…":
-        value: "Open..."
+        value: "திற..."
       "Add Project Folder…":
         value: "Add Project Folder..."
       "Reopen Project":
@@ -310,16 +310,16 @@ Menu:
       "Terms of Use":
         value: "Terms of Use"
       Documentation:
-        value: "Documentation"
+        value: "உதவிஆவணங்கள்"
       Roadmap:
-        value: "Roadmap"
+        value: "அடுத்தகட்ட பணித்திட்டங்கள்"
       "Frequently Asked Questions":
-        value: "Frequently Asked Questions"
+        value: "அடிக்கடி வரும் கேள்விகள்"
       "Community Discussions":
-        value: "Community Discussions"
+        value: "தண்ணீர்ப்பந்தல் உரையாடல்கள்"
       "Report Issue":
-        value: "Report Issue"
+        value: "சிக்கல் அறிக்கையை பதிவிடு"
       "Search Issues":
-        value: "Search Issues"
+        value: "சிக்கல்அறிக்கைகளில் தேடு"
       "Welcome Guide":
-        value: "Welcome Guide"
+        value: "வரவேர்ப்பு அறிக்கை"

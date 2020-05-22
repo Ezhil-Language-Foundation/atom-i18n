@@ -97,14 +97,14 @@ Context:
   ".tree-view li.directory":
     "project-find:show-in-current-directory": "Search in Directory"
   ".tree-view .multi-select":
-    "tree-view:remove": "Delete"
-    "tree-view:copy": "Copy"
-    "tree-view:cut": "Cut"
-    "tree-view:paste": "Paste"
+    "tree-view:remove": "அழி"
+    "tree-view:copy": "நகல்"
+    "tree-view:cut": "வெட்டு"
+    "tree-view:paste": "ஒட்டு"
   "atom-pane[data-active-item-path] .item-views":
     "tree-view:reveal-active-file": "Reveal in Tree View"
   "atom-pane[data-active-item-path] .tab.active":
-    "tree-view:rename": "Rename"
+    "tree-view:rename": "மறுபெயரெடு"
     "tree-view:reveal-active-file": "Reveal in Tree View"
   ".platform-darwin atom-pane[data-active-item-path] .tab.active":
     "tree-view:show-current-file-in-file-manager": "Show In Finder"
